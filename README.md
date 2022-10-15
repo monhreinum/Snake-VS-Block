@@ -1,2 +1,2 @@
-# Snake VS Block 3D Clone
- Clone of the game Snake VS Block
+Snake VS Block 3D
+Game clone for Unity game development courses.
